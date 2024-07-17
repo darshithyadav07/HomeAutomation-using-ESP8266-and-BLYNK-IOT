@@ -1,10 +1,12 @@
+//After creating your template in BLYNK IOT platform and after creating and saving your datastreams, you will get these below three requiremnets.
+//Just copy them and paste it here
 #define BLYNK_TEMPLATE_ID "TMPL3gztglFqx"
 #define BLYNK_TEMPLATE_NAME "HomeAutomation"
 #define BLYNK_AUTH_TOKEN "c3VW4ObTz7VSudXXCt-npw6O0qSeEKFQ"
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Wifi";
-char pass[] = "saichinna";
+char ssid[] = "******";
+char pass[] = "*******";
 
 bool fetch_blynk_state = true;  //true or false
 
